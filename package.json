@@ -1,0 +1,25 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "flashcard gen",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kooner92/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flash"
+  ],
+  "author": "justin kooner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kooner92/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/kooner92/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
